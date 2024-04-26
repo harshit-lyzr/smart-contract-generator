@@ -57,8 +57,6 @@ polib==1.1.1
 postgis==1.0.4
 protobuf==4.25.3
 psutil==5.9.0
-psycopg2==2.9.2
-psycopg2-binary==2.9.9
 pyarrow==16.0.0
 pyasn1==0.5.1
 pyasn1-modules==0.3.0
