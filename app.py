@@ -89,6 +89,6 @@ def smart_contract(details,language):
 
 
 if st.sidebar.button("Generate", type="primary"):
-    solution = product_description(contract_det,contract_language)
+    solution = smart_contract(contract_det,contract_language)
     st.markdown(solution)
 
